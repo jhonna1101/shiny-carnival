@@ -1,8 +1,8 @@
 
 Different Git Commands:
 
--Add
--Commit
+-Add   -- to add file like: java, css, txt and etc.
+-Commit -- it is to save the files that is created
 -Push
 -Rollback
 -Pull
