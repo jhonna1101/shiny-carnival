@@ -3,6 +3,7 @@ Different Git Commands:
 
 -Add   -- to add file like: java, css, txt and etc.
 -Commit -- it is to save the files that is created
+-Branch -- to create another branch and merge the 2 branch
 -Push
 -Rollback
 -Pull
